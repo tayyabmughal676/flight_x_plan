@@ -118,6 +118,15 @@ class Assets {
   static const String poppinsSemiBold = "Poppins-SemiBold";
   static const String poppinsRegular = "Poppins-Regular";
 
+  // Source Sans Pro
+  static const String sourceSansProBold = "SourceSansPro-Bold";
+  static const String sourceSansProSemiBold = "SourceSansPro-SemiBold";
+  static const String sourceSansProRegular = "SourceSansPro-Regular";
+
+
+
+
+
   // Previous App Fonts
   static const String interRegular = "Inter-Regular";
   static const String interLight = "Inter-Light";

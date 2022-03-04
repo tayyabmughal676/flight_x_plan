@@ -14,6 +14,12 @@ Map<int, Color> colorCodes = {
 };
 
 class AppColors {
+
+  // FlightXPlan
+
+  static const xBackgroundColor = Color.fromRGBO(236, 240, 243, 1);
+  static const xWhiteColor = Color.fromRGBO(249, 249, 249, 1);
+  static const xFontText = Color.fromRGBO(25, 53, 102, 1);
   // pacific shores
   static const psContainerColor = Color.fromRGBO(66, 104, 141, 1);
   static const psContainerRegisterColor = Color.fromRGBO(4, 48, 93, 1);

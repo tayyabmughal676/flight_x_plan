@@ -76,6 +76,8 @@ dependencies:
 
   # For SVG Image/Icons
   flutter_svg: ^1.0.3
+  #  Carousel Slider
+  carousel_slider: ^4.0.0
 
 dev_dependencies:
   flutter_test:
